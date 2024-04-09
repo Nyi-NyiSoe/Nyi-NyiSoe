@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [E-Learning](https://github.com/Nyi-NyiSoe/e-learning)
 
-- 🌱 I’m currently learning **Flutter Flame engine, Rust, React.JS, React Native**
+- 🌱 I’m currently learning **Flutter Flame engine, Golang, React.JS, React Native**
 
 - 💬 Ask me about **Flutter, Python**
 
