@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyi-nyisoe&label=Profile%20views&color=0e75b6&style=flat" alt="nyi-nyisoe" /> </p>
 
-- 🔭 I’m currently working on [E-Learning](https://github.com/Nyi-NyiSoe/e-learning)
+- 🔭 I’m currently working on Website Development.
 
-- 🌱 I’m currently learning **Flutter Flame engine, Golang, React.JS, React Native**
+- 🌱 I’m currently learning **React.JS, React Native**
 
 - 💬 Ask me about **Flutter, Python**
 
-- 📫 How to reach me **nyinyisoenov21@gmail.com**
+- 📫 How to reach me **nyinyisoe.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
