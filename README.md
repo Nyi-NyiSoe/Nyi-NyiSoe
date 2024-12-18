@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyi-nyisoe&label=Profile%20views&color=0e75b6&style=flat" alt="nyi-nyisoe" /> </p>
 
-- 🔭 I’m currently working on Website Development.
+- 🔭 I’m currently working on ShopIt.
 
 - 🌱 I’m currently learning **React.JS, React Native**
 
