@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nyi Nyi Soe</h1>
 <h3 align="center">A Full-stack developer specializing in Flutter</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nyi-nyisoe&label=Profile%20views&color=0e75b6&style=flat" alt="nyi-nyisoe" /> </p>
 
 - 💬 Ask me about **Flutter, Python**
 
