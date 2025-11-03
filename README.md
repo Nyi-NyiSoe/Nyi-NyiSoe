@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Sentria**
 
-- 🌱 I’m currently learning **Backend development with Go**
+- 🌱 I’m currently learning **Backend development with JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nyi-NyiSoe](https://github.com/Nyi-NyiSoe)
 
