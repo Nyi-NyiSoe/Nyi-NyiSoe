@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nyi Nyi Soe</h1>
 <h3 align="center">I'm a Software Developer</h3>
 
-- 🔭 I’m currently working on **Sentria**
+- 🔭 I’m currently working on [MandaX](https://www.mandax.io/)
 
 - 🌱 I’m currently learning **Backend development with JS**
 
